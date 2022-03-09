@@ -14,6 +14,5 @@ The Swift UI framework highly scalable compared to another framework. It gives b
 • Simplicity 
 In this demo I used the async and wait , MainaActor which provide batter fixability to write less code and increase the simplicity of the code. 
 
- 
-![image](https://user-images.githubusercontent.com/100123501/157409570-1fc0554a-161f-424d-8176-96f1a8aff60e.png)
+
 

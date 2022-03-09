@@ -9,7 +9,6 @@ Traditional we used the closure or third-party framework to handle the network c
 
 •	Maintainability 
 By using the async and wait methods, the code is easy to maintain and modifiable. 
-
       • Testability
   We can perform the UI Unit and Unit test as well. In this case I used only unit test only for purpose of this demo.  Testing is important in any software or Apps development to fix the bugs quickly and run the apps more efficiently. 
   

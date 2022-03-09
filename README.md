@@ -15,6 +15,7 @@ By using the async and wait methods, the code is easy to maintain and modifiable
   
 •	Scalability
 The Swift UI framework highly scalable compared to another framework. It gives better performance and better scalability. 
+
 • Simplicity 
 
 In this demo I used the async and wait , MainaActor which provide batter fixability to write less code and increase the simplicity of the code. 

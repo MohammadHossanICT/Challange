@@ -2,7 +2,7 @@
 //  HeadTitleView.swift
 //  RedditSwiftUIAsyncAwait
 //
-//  Created by Christian Quicano on 3/3/22.
+// 
 //
 
 import SwiftUI

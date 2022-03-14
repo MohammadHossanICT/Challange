@@ -2,7 +2,7 @@
 //  FakeRedditService.swift
 //  RedditSwiftUIAsyncAwaitProdTests
 //
-//  Created by Christian Quicano on 3/7/22.
+//  
 //
 
 import Foundation

@@ -12,3 +12,4 @@ Testability : We can perform the UI Unit and Unit test as well. In this case I u
 Scalability : The Swift UI framework highly scalable compared to another framework. It gives better performance and better scalability. 
 
 Simplicity : In this demo I used the async and wait , MainaActor which provide batter fixability to write less code and increase the simplicity of the code.
+this is new 
